@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PB_Projeto_Integrador
 {
-    public partial class FormTesteKKKK : Form
+    public partial class FRMLogin : Form
     {
-        public FormTesteKKKK()
+        public FRMLogin()
         {
             InitializeComponent();
         }

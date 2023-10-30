@@ -10,11 +10,15 @@ using System.Windows.Forms;
 
 namespace PB_Projeto_Integrador
 {
-    public partial class AAAAAAAAAAAAAAAAA : Form
+    public partial class MDIPrincipal : Form
     {
-        public AAAAAAAAAAAAAAAAA()
+        private int childFormNumber = 0;
+
+        public MDIPrincipal()
         {
             InitializeComponent();
         }
+
+        public static string stringConexao = ""
     }
 }
