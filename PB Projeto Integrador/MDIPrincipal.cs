@@ -20,5 +20,9 @@ namespace PB_Projeto_Integrador
         }
 
         public static string stringConexao = ""
+private void newToolStripButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
